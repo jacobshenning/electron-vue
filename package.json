@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.0",
+  "description": "An electron boilerplate",
+  "main": "app/core/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jacobshenning",
+  "keywords": [
+    "Electron",
+    "vue"
+  ],
+  "author": "Jacob Henning",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
